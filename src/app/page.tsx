@@ -25,8 +25,8 @@ export default function Home() {
         <Hero />
         <SchoolFinder />
         <Bookshelf />
-        <BooksCatalog />
-        <UniformsCatalog />
+        {/* <BooksCatalog /> */}
+        {/* <UniformsCatalog /> */}
         <TrustSection />
       </main>
       <Footer />
